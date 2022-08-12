@@ -4,5 +4,5 @@
 
 ### Technologies
 - Javascript
-- CSS
+- CSS / SCSS
 - HTML
